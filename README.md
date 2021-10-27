@@ -44,10 +44,12 @@
   <a href="https://www.facebook.com/home.php?ref=homescreenpwa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/GuestRicardo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
  <div>
-   <img align="right" alt="R" height="130" style="border-radius:50px; border-left: 5px" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif">
-   <img align="right" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif">
-   <img align="right" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/9oF7EAvaFUOEU/giphy.gif">
-   <img align="right" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
+   
+   <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif">
+   <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/9oF7EAvaFUOEU/giphy.gif">
+   <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
+   <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/FywHpJCtWSb28/giphy.gif">
+   
   </div>
    
  
