@@ -1,8 +1,8 @@
-## Bom dia, boa tarde, boa noite ou boa madruga....
+## <h1>Ricardo Vieira dos Santos🎮.................🚲</h1>
 
 
 
-<h1>Ricardo Vieira dos Santos</h1>
+
 
 <p>- 🔭 I’m currently working on javascript, php, html, python e C#..</p>
 <p>- 🌱 I’m currently learning javascript, php, html, python e C#..</p>
