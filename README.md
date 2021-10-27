@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/GuestRicardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--
 <div style="display: inline_block"><br>
@@ -35,7 +35,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a><br>
-  <strong>https://dev.to/envoy_/150-badges-for-github-pnk</strong><a href="https://www.reddit.com/user/guestricardo" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a><br>
+  <strong>https://dev.to/envoy_/150-badges-for-github-pnk</strong> ###################################<a href="https://www.reddit.com/user/guestricardo" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a><br>
   <a href="https://www.instagram.com/guestricardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/guestricardo23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Y5HQXUG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -43,11 +43,12 @@
   <a href="https://www.linkedin.com/in/ricardo-vieira-dos-santos-4715a57b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/home.php?ref=homescreenpwa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/GuestRicardo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
- 
-   <img align="right" alt="Rafa" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif">
-   <img align="right" alt="Rafa" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif">
-   <img align="right" alt="Rafa" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9oF7EAvaFUOEU/giphy.gif">
-   <img align="right" alt="Rafa" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
+ <div>
+   <img align="right" alt="R" height="130" style="border-radius:50px; border-left: 5px" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif">
+   <img align="right" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif">
+   <img align="right" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/9oF7EAvaFUOEU/giphy.gif">
+   <img align="right" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
+  </div>
    
  
  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
