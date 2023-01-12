@@ -7,12 +7,12 @@
 <p>- 🔭 I’m currently working on javascript, php, html, python e C#..</p>
 <p>- 🌱 I’m currently learning javascript, php, html, python e C#..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/GuestRicardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<!--
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
