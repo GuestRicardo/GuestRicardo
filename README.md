@@ -4,7 +4,7 @@
 
 
 
-<p>- 🔭 I’m currently working on javascript, php, html, python e C#..</p>
+<p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript, php, html, python e C#..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
 <!--<div align="center">
