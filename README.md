@@ -1,24 +1,24 @@
 ## <h1>Ricardo Vieira dos Santos</h1>
-
-
-
-
-
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<div>
+<hr>
+<!--imagens ling-->
+<div align='left' style="display: inline_block">
   <img align="left"  height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> <br>
-  
+  <img align="left" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> <br> <br>
+
+  <!--quadros-->
 <div align="left">
   <a href="https://github.com/GuestRicardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
+  <!--quadro 1-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--quadro2-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
