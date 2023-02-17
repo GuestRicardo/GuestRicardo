@@ -7,7 +7,7 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/GuestRicardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
@@ -51,9 +51,9 @@
    
    
   </div>
-     -->
+
  
- <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
