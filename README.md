@@ -4,8 +4,8 @@
 <p>- 🤔 I’m looking for help with everything...</p>
 <hr>
 <!--imagens ling-->
-<div align='left' style="display: inline_block">
-  <img align="left"  height="30" width="40" cursor='none'  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div align='left' style="display: inline_block" cursor='none'>
+  <img align="left"  height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
