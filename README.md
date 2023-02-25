@@ -2,9 +2,9 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
+<p><img align="left"  height="30" src='#'></a>
 <img align="left"  height="30" src='#'></a>
-<img align="left"  height="30" src='#'></a>
-<img align="left"  height="30" src='#'></a>
+<img align="left"  height="30" src='#'></a></p>
 
 <hr>
 <!--imagens ling-->
