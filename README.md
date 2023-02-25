@@ -2,7 +2,7 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<p><img align="left"  height="30" src='#'></a>
+<p><img align="left"  height="30" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png'></a>
 <img align="left"  height="30" src='#'></a>
 <img align="left"  height="30" src='#'></a></p> </br>
 
