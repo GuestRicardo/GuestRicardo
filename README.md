@@ -2,9 +2,7 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<a href='#' text-decoration: 'none'> &#9679; teste</a>
-<a href='#'><span>&#9679; teste</span></a>
-<a href='#'><span>&#9679; teste</span></a>
+[Linkedin](https://www.linkedin.com/in/#/) • [Twitter](https://twitter.com/#) • [Instagram](https://instagram.com/#)  • [Steam](https://steamcommunity.com/id/#)
 <hr>
 <!--imagens ling-->
 <div align='left' style="display: inline_block" cursor='none'>
