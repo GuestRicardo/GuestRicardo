@@ -2,9 +2,9 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<a href='#' text-size='larger'>	&#9679; Linkdin</a>
-<a href='#'>	&#9679; Instagram</a>
-<a href='#'>	&#9679; Twitter</a>
+<img src='#'></a>
+<img src='#'></a>
+<img src='#'></a>
 
 <hr>
 <!--imagens ling-->
