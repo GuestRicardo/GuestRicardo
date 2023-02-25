@@ -2,10 +2,7 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<div margin-left="25"><a href="#"> <img align="center" height="30"  src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a></div> 
 
-
-<hr>
 <!--imagens ling-->
 <div align='left' style="display: inline_block" cursor='none'>
   <img align="left"  height="30" width="40" cursor='default'  pointer-events: 'none'  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,6 +11,10 @@
   <img align="left" alt="HTML" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> <br>
+<!--imagens ling-->
+<hr>
+
+<a href="https://br.linkedin.com/in/ricardo-vieira-dos-santos-4715a57b"> <img align="center" height="30"  src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a>
 
 <hr>
   <!--quadros-->
