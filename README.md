@@ -2,9 +2,9 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<li><a src='#'>teste</a>
-  <li><a src='#'>teste</a>
-    <li><a src='#'>teste</a>
+<a src='#'>teste</a>
+<a src='#'>teste</a>
+<a src='#'>teste</a>
 <hr>
 <!--imagens ling-->
 <div align='left' style="display: inline_block" cursor='none'>
