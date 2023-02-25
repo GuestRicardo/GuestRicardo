@@ -2,9 +2,8 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<p><img align="left"  height="30" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a>
-<img align="left"  height="90" src='https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg'></a>
-<img align="left"  height="30" src='#'></a></p> </br>
+<p><a href="#"> <img align="left"  height="30" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a>
+
 
 <hr>
 <!--imagens ling-->
