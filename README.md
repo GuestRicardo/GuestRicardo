@@ -2,7 +2,7 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-<a href='#'> &#9679; teste</a>
+<a href='#' decoration='none'> &#9679; teste</a>
 <a href='#'><span>&#9679; teste</span></a>
 <a href='#'><span>&#9679; teste</span></a>
 <hr>
