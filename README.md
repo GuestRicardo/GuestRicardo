@@ -2,7 +2,7 @@
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-[Linkedin](https://www.linkedin.com/in/christiandeacon/) • [Twitter](https://twitter.com/ChristianDeacon) • [Instagram](https://instagram.com/cdeaconado) • [YouTube](https://www.youtube.com/@cdeaconado/) • [Steam](https://steamcommunity.com/id/mega_chris/)
+<a href='#'>Teste</a>
 
 <hr>
 <!--imagens ling-->
