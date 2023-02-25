@@ -4,7 +4,7 @@
 <p>- 🤔 I’m looking for help with everything...</p>
 <p><img align="left"  height="30" src='#'></a>
 <img align="left"  height="30" src='#'></a>
-<img align="left"  height="30" src='#'></a></p>
+<img align="left"  height="30" src='#'></a></p> </br>
 
 <hr>
 <!--imagens ling-->
