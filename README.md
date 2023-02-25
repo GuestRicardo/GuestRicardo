@@ -14,9 +14,11 @@
 <!--imagens ling-->
 <hr>
 
-<a href="https://br.linkedin.com/in/ricardo-vieira-dos-santos-4715a57b"> <img align="center" height="30"  src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a>
-
+<div><a href="https://br.linkedin.com/in/ricardo-vieira-dos-santos-4715a57b"><img align="center" height="30"  src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a>
+  <a href=""><img align="center" height="30"  src='https://upload.wikimedia.org/wikipedia/commons/archive/2/2a/20160511152831%21Instagram_logo.svg'></a>
+</div>
 <hr>
+
   <!--quadros-->
 <div align="left">
   <a href="https://github.com/GuestRicardo">
