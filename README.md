@@ -1,6 +1,6 @@
 <div align='center' > 
-    <img  src="https://i.ibb.co/T2CH507/fundo3.png">  
-   <a href="https://ibb.co/nk1bscs"><img src="https://i.ibb.co/SvmPXnX/fundo2324.png" alt="fundo2324" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>criador de url</a><br />
+    <img  src="https://i.ibb.co/SvmPXnX/fundo2324.png">  
+
     
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
