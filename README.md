@@ -1,6 +1,6 @@
 <div align='center' > 
     <img  src="https://i.ibb.co/T2CH507/fundo3.png">  
-    <a href="https://ibb.co/7C9GFpZ"><img src="https://i.ibb.co/T2CH507/fundo3.png" alt="fundo3" border="0"></a>
+    
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
 
