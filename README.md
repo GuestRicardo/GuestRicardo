@@ -1,5 +1,6 @@
 <div> 
-<img display: flex gap:4px width: 100% flex-wrap src="https://ibb.co/hCwh4RK">  
+<img display: flex gap:4px width: 100% flex-wrap src="https://i.ibb.co/8XtTfDj/fundo2.png">  
+  <a href="https://ibb.co/hCwh4RK"><img src="https://i.ibb.co/8XtTfDj/fundo2.png" alt="fundo2" border="0"></a>
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
 
@@ -20,7 +21,8 @@
 <div align="left">
   <a href="https://github.com/GuestRicardo">
   <!--quadro 1-->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true
+&theme=dark&include_all_commits=true&count_private=true"/>
   <!--quadro2-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
 </div>
