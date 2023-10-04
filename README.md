@@ -1,6 +1,5 @@
 <div align='center' display: flex gap:4px width: 100% flex-wrap> 
-    <img  src="https://i.ibb.co/T2CH507/fundo3.png">    
-    
+    <img  src="https://i.ibb.co/T2CH507/fundo3.png">  
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
 
