@@ -1,5 +1,5 @@
 <div> 
-<img display: flex gap:4px width: 100% flex-wrap src="https://a.imagem.app/okZDQ8.png">  
+<img display: flex gap:4px width: 100% flex-wrap src="https://ibb.co/hCwh4RK">  
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
 
