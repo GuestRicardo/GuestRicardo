@@ -1,5 +1,5 @@
-<div> 
-<img display: flex gap:4px width: 100% flex-wrap src="https://i.ibb.co/8XtTfDj/fundo2.png">  
+<div display: flex gap:4px width: 100% flex-wrap> 
+<img  src="https://i.ibb.co/8XtTfDj/fundo2.png">  
   
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
@@ -12,7 +12,8 @@
   <img align="left"  height="30" width="40" cursor='default'  pointer-events: 'none'  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ts" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="left" alt="React" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="HTML" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <
+img align="left" alt="HTML" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> <br>
 <!--imagens ling-->
