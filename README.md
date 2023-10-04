@@ -1,6 +1,6 @@
 <div> 
 <img display: flex gap:4px width: 100% flex-wrap src="https://i.ibb.co/8XtTfDj/fundo2.png">  
-  <a href="https://ibb.co/hCwh4RK"><img src="https://i.ibb.co/8XtTfDj/fundo2.png" alt="fundo2" border="0"></a>
+  
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
 
