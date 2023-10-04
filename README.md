@@ -1,5 +1,4 @@
-<div>
- 
+<div> 
 <img display: flex gap:4px width: 100% flex-wrap src="https://a.imagem.app/okZDQ8.png">  
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
