@@ -1,4 +1,6 @@
-<img display: flex gap:4px width: 100% flex-wrap src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<div>
+<img display: flex gap:4px width: 100% flex-wrap src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+</div>
 ## <h1>Ricardo Vieira dos Santos</h1>
 
 <p>- 🔭 I’m currently working on javascript..</p>
