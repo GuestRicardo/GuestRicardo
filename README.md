@@ -1,8 +1,9 @@
 ## <h1>Ricardo Vieira dos Santos</h1>
+
 <p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
-
+<img display: flex gap:4px width: 100% flex-wrap src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <!--imagens ling-->
 <div align='left' style="display: inline_block" cursor='none'>
   <img align="left"  height="30" width="40" cursor='default'  pointer-events: 'none'  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
