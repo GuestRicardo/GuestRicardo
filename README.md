@@ -1,24 +1,24 @@
 <div align='center' > 
-    <img  src="https://a.imagem.app/o1Lyi1.png"> 
-        
+    <img  src="https://a.imagem.app/o1Lyi1.png">         
 </div>
-<h1>Ricardo Vieira dos Santos</h1>
+<!--<h1>Ricardo Vieira dos Santos</h1>-->
 
-<p>- 🔭 I’m currently working on javascript..</p>
+<!--<p>- 🔭 I’m currently working on javascript..</p>
 <p>- 🌱 I’m currently learning javascript..</p>
 <p>- 🤔 I’m looking for help with everything...</p>
 <!--imagens ling-->
-<div align='left' style="display: inline_block" cursor='none'>
+<!--<div align='left' style="display: inline_block" cursor='none'>
   <img align="left"  height="30" width="40" cursor='default'  pointer-events: 'none'  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ts" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="left" alt="React" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="left" alt="HTML" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> <br>
+</div> <br> -->
 <!--imagens ling-->
 <br>
 
   <!--quadros-->
+
 <div align="left">
   <a href="https://github.com/GuestRicardo">
   <!--quadro 1-->
