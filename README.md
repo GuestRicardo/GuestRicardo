@@ -19,7 +19,7 @@
 
   <!--quadros-->
 
-<div align="left">
+<!--<div align="left">
   <a href="https://github.com/GuestRicardo">
   <!--quadro 1-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guestricardo&show_icons=true
