@@ -15,7 +15,7 @@
   <img align="left" alt="CSS" height="30" width="40" cursor='none' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> <br> -->
 <!--imagens ling-->
-<br>
+<!--<br>
 
   <!--quadros-->
 
