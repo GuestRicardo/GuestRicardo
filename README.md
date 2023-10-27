@@ -1,7 +1,7 @@
 <div align='center' > 
     <img  src="https://a.imagem.app/o1Lyi1.png">         
 </div>
-<div>
+<div> ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</div>
 <!--<h1>Ricardo Vieira dos Santos</h1>-->
 
 <!--<p>- 🔭 I’m currently working on javascript..</p>
@@ -72,9 +72,9 @@
  <!-- </div>-->
 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
   
-</div>
+<!--</div>
 
 
 
