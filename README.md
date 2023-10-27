@@ -1,5 +1,5 @@
 <div align='center' > 
-    <img  src="https://a.imagem.app/o1LMUG.png"> 
+    <img  src="https://imagem.app/image/o1LfoQ"> 
         
 </div>
 <h1>Ricardo Vieira dos Santos</h1>
@@ -30,7 +30,8 @@
   <hr>
 <div align="left">
  &#9679; <a href="https://br.linkedin.com/in/ricardo-vieira-dos-santos-4715a57b"><img align="center" height="30" alt="Linkdin"        src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a>
-&#9679; <a href="https://twitter.com/GuestRicardo" alt="Twitter"><img align="center" height="30"  src='https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_twitter_wordmark_1000.png'></a>
+&#9679; <a href="https://twitter.com/GuestRicardo" alt
+="Twitter"><img align="center" height="30"  src='https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_twitter_wordmark_1000.png'></a>
 
 </div>
 
