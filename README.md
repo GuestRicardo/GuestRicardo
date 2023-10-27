@@ -65,10 +65,10 @@
   
    <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif">
    <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/9oF7EAvaFUOEU/giphy.gif">
-   <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">  -->
+   <img align="left" alt="R" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">  
    
    
-  </div>
+ <!-- </div>-->
 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
