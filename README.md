@@ -26,7 +26,7 @@
 <!--&theme=dark&include_all_commits=true&count_private=true"/>
   <!--quadro2-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guestricardo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<!--</div>
   <hr>
 <div align="left">
  &#9679; <a href="https://br.linkedin.com/in/ricardo-vieira-dos-santos-4715a57b"><img align="center" height="30" alt="Linkdin"        src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/512px-LinkedIn_Logo_2013_%282%29.svg.png'></a>
