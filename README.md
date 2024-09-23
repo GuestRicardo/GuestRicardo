@@ -16,10 +16,10 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-<p align="center">
+<!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
-</p>
+</p> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GuestRicardo&icon=2&color=1)](https://visitcount.itsvg.in)
