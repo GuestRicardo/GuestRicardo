@@ -7,8 +7,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=GuestRicardo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
   
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GuestRicardo&theme=dark&hide_border=false)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=GuestRicardo&theme=dark&hide_border=false) <br>
+[![](https://visitcount.itsvg.in/api?id=GuestRicardo&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 
